@@ -1,0 +1,41 @@
+/* kode h3 */
+* {
+    
+}
+h3 {
+    color: blueviolet;
+}
+
+.text-while {
+    color: red;
+    align-items: center;
+}
+
+.bg-teal {
+    background: teal;
+}
+
+#ab {
+    color: rgb(81, 99, 62);
+    height: 100px;
+    padding: 50px;
+}
+
+input[type=text] {
+    background-color: rgb(170, 212, 212);
+    text-decoration: black;
+}
+
+button{
+    color: brown;
+    background-color: rgb(255, 255, 255);
+}
+
+button:hover{
+    color: cornflowerblue;
+    background-color: crimson;
+}
+
+h2::first-line{
+    color: magenta;
+}
